@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [BiteRush](https://github.com/Snehamodi8910/Biterush)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Snehamodi8910?tab=repositories](https://github.com/Snehamodi8910?tab=repositories)
 
-- 📫 How to reach me **sneha.modi.cer22@itbhu.ac.in**
+- 📫 How to reach me **snehamodiworkmail2893@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
